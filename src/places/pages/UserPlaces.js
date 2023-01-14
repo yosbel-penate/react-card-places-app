@@ -20,7 +20,7 @@ const DUMMY_PLACES=[
     id: 'p2',
     title: 'Empire State Building',
     description: 'One of the most famous sky scrapers in the world',
-    ImageUrl:'https://upload.wikimedia.org/wikipedia/commons/d/df/NYC_Empire_State_Building.jpg',
+    ImageUrl:'https://iili.io/31RI3b.png',
     address: '20 W 34th St., New York, NY 10001, United States',
     location:{
       lat:'40.7484445',
@@ -28,7 +28,6 @@ const DUMMY_PLACES=[
     },
     creator: 'u2'
   },
- 
 ]
 
 const UserPlaces = () => {
