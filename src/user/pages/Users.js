@@ -5,20 +5,20 @@ const Users = () => {
     const USERS = [
         {
             id: 'u1',
-            name: 'Pepe',
-            image:'mariposa.png',
+            name: 'Pepe Hernandez',
+            image:'userImg/user-1.jpg',
             places: 11
         },
         {
             id: 'u2',
-            name: 'Mario',
-            image:'mariposa.png',
+            name: 'Mario Lunas',
+            image:'userImg/user-3.jpg',
             places: 12
         },
         {
             id: 'u3',
-            name: 'Ana',
-            image:'mariposa.png',
+            name: 'Ana Maria',
+            image:'userImg/user-2.jpg',
             places: 14
         }
     ]

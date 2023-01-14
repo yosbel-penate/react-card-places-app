@@ -15,7 +15,7 @@ const UsersItem = props => {
                         </div>
                         <div className="user_item__info">
                             <h2>{props.name}</h2>
-                            <h2>{props.placeCount}</h2>
+                            <h3>{props.placeCount} lugares</h3>
                         </div>
                     </Link>
                 </Card>
